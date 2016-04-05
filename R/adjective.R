@@ -98,7 +98,6 @@ adjective <- c(
   "solid",
   "special",
   "spectacular",
-  "splendery-doodley",
   "splendid",
   "stellar",
   "striking",
